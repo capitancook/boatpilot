@@ -1,0 +1,7 @@
+{
+  "name": "BoatPilot",
+  "description": "Autopilot application for small electric boats (3-6m). Uses GPS for navigation and audio PWM signals for motor control.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
